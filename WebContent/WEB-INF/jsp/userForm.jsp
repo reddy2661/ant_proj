@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Registration Page SATHYA TECH DEVOPS</title>
-<title>Hello DEVOPS</title>
+<title>Hello sivaram </title>
 <title>Good Day </title>
 
 </head>
@@ -58,15 +58,21 @@
 		</tr>
 	</table>
 </form:form>
-<table> <caption>A complex table</caption> <thead> <tr> <th colspan="3">Invoice #123456789</th> <th>14 January 2025 </tr> <tr> <td colspan="2"> <strong>Pay to:</strong><br> Acme Billing Co.<br> 123 Main St.<br> Cityville, NA 12345 </td> <td colspan="2"> <strong>Customer:</strong><br> John Smith<br> 321 Willow Way<br> Southeast Northwestershire, MA 54321 </td> </tr> </thead> <tbody> <tr> <th>Name / Description</th> <th>Qty.</th> <th>@</th> <th>Cost</th> </tr> <tr> <td>Paperclips</td> <td>1000</td> <td>0.01</td> <td>10.00</td> </tr> <tr> <td>Staples (box)</td> <td>100</td> <td>1.00</td> <td>100.00</td> </tr> </tbody> <tfoot> <tr> <th colspan="3">Subtotal</th> <td> 110.00</td> </tr> <tr> <th colspan="2">Tax</th> <td> 8% </td> <td>8.80</td> </tr> <tr> <th colspan="3">Grand Total</th> <td>$ 118.80</td> </tr> </tfoot> </table>
-
-Read more: https://html.com/tables/#ixzz5bT2bpxB4
-
-
-
-
-
-
+<table style="width:100%">
+  <caption>Monthly savings</caption>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$50</td>
+  </tr>
+</table>
 
 
 
